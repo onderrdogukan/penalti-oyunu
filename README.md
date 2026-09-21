@@ -16,8 +16,7 @@ göstermek amacıyla tasarlanmıştır.
 * **Medya:** HTML5 Audio API
 * 
 ## Oyunu Canlı Oyna
-*(Aşağıdaki linki GitHub Pages aktif ettikten sonra kendi linkinle değiştir)*
-**[Oyunu Tarayıcıda Oynamak İçin Tıklayın]([https://onderrdogukan.github.io/penalti_oyunu/](https://onderrdogukan.github.io/penalti-oyunu/))**
+**[Oyunu Tarayıcıda Oynamak İçin Tıklayın]([[https://onderrdogukan.github.io/penalti_oyunu/](https://onderrdogukan.github.io/penalti-oyunu/)](https://onderrdogukan.github.io/penalti-oyunu/))**
 
 ---
 Geliştirici: Doğukan Önder - 2025
